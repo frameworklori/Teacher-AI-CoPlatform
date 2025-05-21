@@ -1,5 +1,6 @@
 # Teacher × AI Co-Creation Platform — Prototype v1
-![Platform Wireframe](./assets/images/Teacher%20x%20AI%20Co-Creation%20interface%20wireframe.png)
+
+![Platform Wireframe](./assets/images/platform-wireframe-v1-en.png)
 This project is part of the Lori Framework initiative, focused on improving classroom engagement, emotional support, and civic education through AI-assisted, teacher-directed interaction.
 
 ---
