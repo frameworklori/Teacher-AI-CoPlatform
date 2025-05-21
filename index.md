@@ -14,19 +14,18 @@ This system provides tools for:
 
 ---
 
-## Explore Platform
-
+#### Explore Platform
 - [System Overview](./README.md)
 - [Download PDFs](./docs/)
 - [Empathy Module](./empathy-module/)
 - [Stress Support Tools](./stress-support/)
 - [Teacher Feedback Loop](./teacher-feedback-loop/)
----
-## Explore Roles
 
+#### Explore Roles
 - [For Teachers](./roles/teacher.md)
 - [For Students](./roles/student.md)
 - [For Schools](./roles/school.md)
+
 
 
 **Return to Main Site:**
