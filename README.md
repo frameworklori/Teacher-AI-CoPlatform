@@ -7,9 +7,9 @@ This project is part of the Lori Framework initiative...
 ### Explore Core Modules
 
 **View in GitHub (for editing):**
-- [Empathy Module](./empathy-module/README.md)
-- [Stress Support Tools](./stress-support/README.md)
-- [Teacher Feedback Loop](./teacher-feedback-loop/README.md)
+- [Empathy Module](./empathy-module/)
+- [Stress Support Tools](./stress-support/)
+- [Teacher Feedback Loop](./teacher-feedback-loop/)
 
 **View as Web Pages (for reading):**
 - [Empathy Module (Web)](https://frameworklori.github.io/Teacher-AI-CoPlatform/empathy-module/)
