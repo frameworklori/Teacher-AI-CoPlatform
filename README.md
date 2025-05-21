@@ -4,6 +4,14 @@ This project is part of the Lori Framework initiative, focused on improving clas
 
 ---
 
+### Explore Core Modules:
+
+- [Empathy Module](./empathy-module/README.md)
+- [Stress Support Tools](./stress-support/README.md)
+- [Teacher Feedback Loop](./teacher-feedback-loop/README.md)
+
+---
+
 ## 1. System Overview
 
 ### A. Teaching Interaction Module
