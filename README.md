@@ -54,15 +54,17 @@ This project is part of the Lori Framework initiative...
 - **Empathy is structural:** Students learn values and tolerance, not just test scores.
 - **Cultural context matters:** The system adjusts tone and strategy based on student background (e.g. single-parent homes, first-generation immigrants, racial dynamics).
 
----
+----
 
 ## Downloadable Resources
 
-You can download and share these PDF versions of the platform summary and classroom empathy activities.
+Below are printable PDF documents for platform overview, classroom activities, and reflective teaching practices.
 
 - [Platform Overview](./docs/Platform_Overview.pdf)
 - [Empathy Module Activities](./docs/Empathy_Module_Activities.pdf)
+- [Teacher Feedback Loop](./docs/Teacher_Feedback_Loop.pdf)
 
+---
 **Version:** v1.0
 **Designed by:** Lori Framework Initiative
 **License:** MIT
