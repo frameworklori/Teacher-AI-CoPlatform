@@ -56,6 +56,13 @@ This project is part of the Lori Framework initiative...
 
 ---
 
+## Downloadable Resources
+
+You can download and share these PDF versions of the platform summary and classroom empathy activities.
+
+- [Platform Overview](./docs/Platform_Overview.pdf)
+- [Empathy Module Activities](./docs/Empathy_Module_Activities.pdf)
+
 **Version:** v1.0
 **Designed by:** Lori Framework Initiative
 **License:** MIT
