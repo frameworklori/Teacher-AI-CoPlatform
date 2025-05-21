@@ -1,7 +1,7 @@
-# Downloadable PDFs
+## Downloadable Resources
 
-Browse and download teaching resources and overview materials:
+Below are printable PDF documents for platform overview, classroom activities, and reflection loops:
 
-- [Platform Overview](./Platform_Overview.pdf)
-- [Empathy Module Activities](./Empathy_Module_Activities.pdf)
-- [Teacher Feedback Loop](./Teacher_Feedback_Loop.pdf)
+- [Platform Overview](./platform_overview.pdf)
+- [Empathy Module Activities](./empathy_module_activities.pdf)
+- [Teacher Feedback Loop](./teacher_feedback_loop_full.pdf)
