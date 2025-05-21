@@ -63,11 +63,11 @@ This project is part of the Lori Framework initiative...
 
 ## Downloadable Resources
 
-Below are printable PDF documents for platform overview, classroom activities, and reflective teaching practices.
+Below are printable PDF documents for platform overview, classroom activities, and reflection tools:
 
-- [Platform Overview](./docs/Platform_Overview.pdf)
-- [Empathy Module Activities](./docs/Empathy_Module_Activities.pdf)
-- [Teacher Feedback Loop](./docs/Teacher_Feedback_Loop.pdf)
+- [Platform Overview](./docs/platform_overview.pdf)
+- [Empathy Module Activities](./docs/empathy_module_activities.pdf)
+- [Teacher Feedback Loop](./docs/teacher_feedback_loop.pdf)
 
 ---
 **Version:** v1.0
