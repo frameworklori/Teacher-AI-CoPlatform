@@ -21,8 +21,13 @@ This system provides tools for:
 - [Empathy Module](./empathy-module/)
 - [Stress Support Tools](./stress-support/)
 - [Teacher Feedback Loop](./teacher-feedback-loop/)
-
 ---
+## Explore Roles
+
+- [For Teachers](./roles/teacher.md)
+- [For Students](./roles/student.md)
+- [For Schools](./roles/school.md)
+
 
 **Return to Main Site:**
 [← Back to Lori Framework Homepage](https://frameworklori.github.io/lori-framework-site/)
