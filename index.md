@@ -1,7 +1,3 @@
----
-layout: default
-title: Teacher × AI Co-Creation Platform
----
 
 # Teacher × AI Co-Creation Platform
 
