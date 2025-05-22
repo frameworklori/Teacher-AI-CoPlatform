@@ -1,3 +1,4 @@
+--
 layout: default
 title: Teacher × AI Co-Creation Platform
 --
