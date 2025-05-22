@@ -1,4 +1,6 @@
-
+layout: default
+title: Teacher × AI Co-Creation Platform
+--
 # Teacher × AI Co-Creation Platform
 
 Welcome to the AI-assisted co-teaching platform for schools and educators.
