@@ -5,3 +5,5 @@ Below are printable PDF documents for platform overview, classroom activities, a
 - [Platform Overview](./platform_overview.pdf)
 - [Empathy Module Activities](./empathy_module_activities.pdf)
 - [Teacher Feedback Loop](./teacher_feedback_loop_full.pdf)
+
+****All rights reserved. Redistribution or modification without permission is not allowed.****
